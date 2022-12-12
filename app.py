@@ -184,7 +184,7 @@ predict_82 = lr.predict([person_82])
 # else:
 #     st.markdown("They are not a LinkedIn User")
 
-st.markdown("Select the information below that matches the individual you would like to test:")
+st.markdown("Select the information below that matches the individual you would like to test and predict if they would be classified as a LinkedIn User:")
 st.markdown(" ")
 
 ########## SLIDERS FOR INPUTS
