@@ -1,7 +1,6 @@
 
 import pandas as pd
 import os
-os.chdir("C:/Users/nunna/Documents/prog2/my_app_p2")
 import numpy as np
 import altair as alt
 import streamlit as st
